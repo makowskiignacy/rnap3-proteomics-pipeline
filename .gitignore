@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+*.pdf
+output_figures/
+data/*.csv
+data/**/*.csv
+mcbs_based/
+kegg_enrichment_results_limma_new/
+notebooks/
